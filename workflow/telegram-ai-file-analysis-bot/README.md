@@ -29,3 +29,26 @@ This project demonstrates how to design a **scalable, event-driven AI assistant*
 ---
 
 ## 🗂️ Repository Structure
+workflows/
+└── telegram-ai-file-analysis-bot/
+├── README.md
+└── workflow.png
+
+## 📸 Workflow Preview
+![Workflow](workflows/telegram-ai-file-analysis-bot/workflow.png)
+
+---
+
+## 🌟 Key Highlights
+- 🧱 Modular and maintainable workflow design
+- 🔁 Event-driven automation architecture
+- 🛠️ AI agent with external tool access
+- 📈 Designed with scalability in mind
+
+---
+
+## 🔐 Notes
+> This workflow is a **sanitized and recreated version** intended solely for portfolio and demonstration purposes.  
+> No proprietary data or credentials are included.
+
+---
