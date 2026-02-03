@@ -35,7 +35,7 @@ workflows/
 └── workflow.png
 
 ## 📸 Workflow Preview
-![Workflow Preview](workflow/telegram-ai-file-analysis-bot/shop-assistant-bot.png)
+![Workflow Preview](/shop-assistant-bot.png)
 
 
 ## 🌟 Key Highlights
